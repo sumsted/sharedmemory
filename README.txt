@@ -1,0 +1,1 @@
+Use mmap to share joystick position with other processes.
